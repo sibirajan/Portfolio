@@ -3,4 +3,5 @@ logo: /assets/logo.png
 description: Marketing Analytics Enthusiast
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+
+theme: jekyll-theme-minimal 
