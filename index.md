@@ -9,4 +9,4 @@ Churn is defined in business terms as ‘when a client cancels a subscription to
 
 From a company point of view, it is necessary to gain this information because acquiring new customers is often arduous and costlier than retaining old ones. Hence, the insights gained from Churn Prediction helps them to focus more on the customers that are at a high risk of leaving.
 
-<center><img src="images/churn.jpg"/></center>
+<center><img src="assets/cltv.jpg"/></center>
